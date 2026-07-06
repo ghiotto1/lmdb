@@ -11476,3 +11476,5 @@ utf8_to_utf16(const char *src, MDB_name *dst, int xtra)
 }
 #endif /* defined(_WIN32) */
 /** @} */
+
+/* inspector incremental reuse test — real edit 2026-07-06 08:18:54 */
