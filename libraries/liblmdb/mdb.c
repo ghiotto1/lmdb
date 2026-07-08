@@ -11481,3 +11481,4 @@ utf8_to_utf16(const char *src, MDB_name *dst, int xtra)
 
 /* e2e round-3 verification: content-hash bust to exercise verdict re-judge with
  * prompt-version stamps (2026-07-07). */
+/* e2e round-3 probe rerun marker */
