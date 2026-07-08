@@ -11483,3 +11483,4 @@ utf8_to_utf16(const char *src, MDB_name *dst, int xtra)
  * prompt-version stamps (2026-07-07). */
 /* e2e round-3 probe rerun marker */
 /* v2-rollover e2e: verdict re-judge under PROMPT_VERSION v2 (2026-07-08) */
+/* v2 steady-state probe */
