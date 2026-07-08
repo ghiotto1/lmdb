@@ -11478,3 +11478,6 @@ utf8_to_utf16(const char *src, MDB_name *dst, int xtra)
 /** @} */
 
 /* inspector incremental reuse test — real edit 2026-07-06 08:18:54 */
+
+/* e2e round-3 verification: content-hash bust to exercise verdict re-judge with
+ * prompt-version stamps (2026-07-07). */
